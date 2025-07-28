@@ -1,1 +1,0 @@
-## This is a simple ML based Web Project
